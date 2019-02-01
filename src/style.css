@@ -1,0 +1,43 @@
+*{
+    box-sizing: border box;
+    }
+
+    .nomedapg{
+        font-size:3rem;
+        position: relative;
+        margin-left: 37%;
+        text-align: center;
+        height: 100px;
+        width: 300px;
+        color:white;
+        text-shadow:white 0.1em 0.1em 0.2em;
+        line-height: 100px;
+        
+        
+    }
+        
+
+    .intro{
+        position: relative;
+        align-content: space-around;
+          text-align: justify
+    }
+        body{
+            color: white;
+            text-shadow: black 0.1em 0.1em 0.2em;
+            background-size: cover;
+            
+            background-image: url("caverna.jpg");
+            font-family: 'Handlee', Arial, Helvetica, sans-serif;
+            
+            
+    }
+    
+    h3{
+        font-family: 'Palatino';
+            font-size: 20px;
+    }
+
+    
+
+    
