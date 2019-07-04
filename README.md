@@ -28,4 +28,4 @@ Cifrar ou Decifrar Textos de mensagens.
 
 ## Fluxograma
 
-![Diagrama de Blocos Cifra de Cesar](https://github.com/aline-ramos/caesar-cipher/blob/master/src/Diagrama%20Cifra%20de%20Cesar.png)
+![Diagrama de Blocos Cifra de Cesar](https://i.imgur.com/c1Csfw3.png)
