@@ -25,7 +25,7 @@
             text-shadow: black 0.1em 0.1em 0.2em;
             background-size: cover;
             
-            background-image: url("/src/imagens/caverna.jpg");
+            background-image: url("/imagens/caverna.jpg");
             font-family: 'Handlee', Arial, Helvetica, sans-serif;           
             
     }
