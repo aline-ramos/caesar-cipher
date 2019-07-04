@@ -3,7 +3,7 @@
     }
 
     body{
-        background-image: url("/imagens/caverna.jpg");
+        background-image: url("/imagens/caverna-032.jpg");
         color: white;
         text-shadow: black 0.1em 0.1em 0.2em;
         background-size: cover;            
@@ -12,7 +12,7 @@
 }
 
     .nomedapg{
-        font-size:3rem;
+        font-size:2rem;
         position: relative;
         margin-left: 37%;
         text-align: center;
