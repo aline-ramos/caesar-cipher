@@ -12,10 +12,8 @@
         color:white;
         text-shadow:white 0.1em 0.1em 0.2em;
         line-height: 100px;
-        
-        
-    }
-        
+                
+    }        
 
     .intro{
         position: relative;
@@ -27,9 +25,8 @@
             text-shadow: black 0.1em 0.1em 0.2em;
             background-size: cover;
             
-            background-image: url("caverna.jpg");
-            font-family: 'Handlee', Arial, Helvetica, sans-serif;
-            
+            background-image: url("/src/imagens/caverna.jpg");
+            font-family: 'Handlee', Arial, Helvetica, sans-serif;           
             
     }
     
